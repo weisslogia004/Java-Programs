@@ -1,0 +1,4 @@
+
+[CLICK at (640, 177) with Button.left]
+agniv haldar [CAPS LOCK]agni[CAPS LOCK]A
+[CLICK at (532, 74) with Button.left]
